@@ -11,10 +11,11 @@ Project created to explore creating a using a Django project.
 - [x] Utilize `manage.py` InteractiveShell
 - [x] Deploy Admin site and add Models
 - [x] Practice CRUD operations
-- [ ] Define user-accessible views
-- [ ] Use Templates
-- [ ] The Render command (optional)
-- [ ] Custom error pages
-- [ ] Manage URLs
-- [ ] Using Forms
+- [x] Define user-accessible views
+- [x] Use Templates
+- [x] The Render command (optional)
+- [x] Custom error pages
+- [x] Manage URLs
+- [x] Using Forms
 - [ ] Testing DJango Apps (optional)
+- [ ] Update App look and feel
